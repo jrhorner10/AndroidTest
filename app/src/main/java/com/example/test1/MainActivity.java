@@ -11,6 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main); //add comment here
         int x = 5; //comment hey hi sup
-        int y = 4; //comment
+        int y = 4; //comment im cool
     }
 }
